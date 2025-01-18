@@ -520,7 +520,9 @@ ul.social-media-icon li:nth-child(3) a {
     align-items: center;
 }
 .server:hover i img{
-    transform: rotateY(180deg);
+    transform: rotateY(360deg);
+    scale: 150%;
+    border-radius: 50%;
 }
 .server {
     position: relative;
