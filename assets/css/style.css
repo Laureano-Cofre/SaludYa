@@ -887,7 +887,7 @@ ul.social-media-section li:nth-child(3) a i{
     background-color: #07af39;
 }
 ul.social-media-section li:nth-child(4) a i{
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    background-color: red;
 }
 ul.social-media-section li:nth-child(5) a i{
     background-color: #07af39;
